@@ -1,4 +1,13 @@
+
+
+
+
 ## Olá 👋 Bem vindo ao meu perfil! 
+
+- ### Sobre mim 🙂
+#### Meu nome é Guilherme Machado Santana, sou de Criciúma, Santa Catarina, e comecei a ter paixão pela programação 
+
+
 
 - ### Ferramentas e Tecnologias ☕ 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40"/> 
@@ -15,7 +24,7 @@
 <div>
 <a href="https://www.linkedin.com/in/guilherme-machado-santana-468174216/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href = "mailto:guilherme.ms2003@aluno.ifsc.edu.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> <a href="https://instagram.com/g.santanaa03" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
 </div>
-  ###
+
 
   
 
