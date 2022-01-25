@@ -4,6 +4,11 @@
 
 ## Olá 👋 Bem vindo ao meu perfil! 
 
+<p align="center">
+	<img width="460" height="300" src="assets\to_readme\75uC.gif">
+</p>
+
+
 - ### Sobre mim 🙂
 #### Meu nome é Guilherme Machado Santana, sou de Criciúma, Santa Catarina, e comecei a ter paixão pela programação em 2019, durante meu curso técnico. De lá pra cá, busquei sempre me atualizar sobre a área do desenvolvimento, mas foi só em 2021 que tive coragem de focar minha carreira profissional nisso. Atualmente estou me aperfeiçoando em Java, onde busco carreira sólida e consistente. Tenho alguns projetos legais upados aqui, por que não dá uma olhada?
 
