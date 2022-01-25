@@ -16,13 +16,13 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40"/> 
 
 - ### Principais projetos 🔟
->[API Restful com MongoDB de um Workshop](https://github.com/guirms/workshop-springboot-mongodb)
+>[API Restful com MongoDB de um Workshop](https://github.com/guirms/api-restful-springboot-mongodb)
 
->[Web Service com PostGree](https://github.com/guirms/springboot_projeto_java_11)
+>[Web Service com PostGree](https://github.com/guirms/webservice_springboot)
 
->[Crud com MySQL e JavaFX de um Workshop](https://github.com/guirms/CRUD_workshop-javaFX-JDBC)
+>[Crud com MySQL e JavaFX de um Workshop](https://github.com/guirms/crud_workshop-javaFX-JDBC)
 
->[Crud simples com MySQL](https://github.com/guirms/dao_demo_jdbc)
+>[Crud simples com MySQL](https://github.com/guirms/padrao_dao_jdbc)
 
 >[Bot IQOption](https://github.com/guirms/iqoption_trade_bot)
 
