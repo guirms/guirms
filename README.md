@@ -5,9 +5,7 @@
 ## Olá 👋 Bem vindo ao meu perfil! 
 
 - ### Sobre mim 🙂
-#### Meu nome é Guilherme Machado Santana, sou de Criciúma, Santa Catarina, e comecei a ter paixão pela programação 
-
-
+#### Meu nome é Guilherme Machado Santana, sou de Criciúma, Santa Catarina, e comecei a ter paixão pela programação em 2019, durante meu curso técnico. De lá pra cá, busquei sempre me atualizar sobre a área do desenvolvimento, mas foi só em 2021 que tive coragem de focar minha carreira profissional nisso. Atualmente estou me aperfeiçoando em Java, onde busco carreira sólida e consistente. Tenho alguns projetos legais upados aqui, por que não dá uma olhada?
 
 - ### Ferramentas e Tecnologias ☕ 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40"/> 
