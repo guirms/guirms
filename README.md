@@ -1,7 +1,3 @@
-
-
-
-
 ## Olá 👋 Bem vindo ao meu perfil! 
 
 <p align="center">
@@ -20,9 +16,9 @@
 
 >[Web Service com PostGree](https://github.com/guirms/webservice_springboot)
 
->[Crud com MySQL e JavaFX de um Workshop](https://github.com/guirms/crud_workshop-javaFX-JDBC)
+>[CRUD com MySQL e JavaFX de um Workshop](https://github.com/guirms/crud_workshop-javaFX-JDBC)
 
->[Crud simples com MySQL](https://github.com/guirms/padrao_dao_jdbc)
+>[CRUD simples com MySQL](https://github.com/guirms/padrao_dao_jdbc)
 
 >[Bot IQOption](https://github.com/guirms/iqoption_trade_bot)
 
