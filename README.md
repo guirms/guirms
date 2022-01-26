@@ -12,11 +12,11 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40"/> 
 
 - ### Principais projetos 🔟
->[API Restful com MongoDB de um Workshop](https://github.com/guirms/api-restful-springboot-mongodb)
+>[API Restful de um Workshop com MongoDB](https://github.com/guirms/api-restful-springboot-mongodb)
 
 >[Web Service com PostGree](https://github.com/guirms/webservice_springboot)
 
->[CRUD com MySQL e JavaFX de um Workshop](https://github.com/guirms/crud_workshop-javaFX-JDBC)
+>[CRUD de um Workshop com MySQL e JavaFX](https://github.com/guirms/crud_workshop-javaFX-JDBC)
 
 >[CRUD simples com MySQL](https://github.com/guirms/padrao_dao_jdbc)
 
