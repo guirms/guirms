@@ -12,6 +12,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40"/> 
 
 - ### Principais projetos 🔟
+>[Aplicativo Web de eventos com MySQL, HTML, CSS e JavaScript (Em desenvolvimento)](https://github.com/guirms/app_de_evento_web_java)
+
 >[API Restful de um Workshop com MongoDB](https://github.com/guirms/api-restful-springboot-mongodb)
 
 >[Web Service com PostGree](https://github.com/guirms/webservice_springboot)
