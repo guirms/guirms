@@ -8,10 +8,10 @@
 - ### Sobre mim 🙂
 #### Meu nome é Guilherme Machado Santana, sou natural de Criciúma, Santa Catarina. Comecei a ter paixão pela programação em 2019, durante meu curso técnico. De lá pra cá, busquei sempre me atualizar sobre a área do desenvolvimento, mas foi só em 2021 que tive coragem de focar minha carreira profissional nisso. Atualmente estou me aperfeiçoando em Java, onde busco conhecimentos sólidos e consistentes. Tenho alguns projetos legais upados aqui, por que não dá uma olhada?
 
-- ### Ferramentas e Tecnologias ☕ 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40"/> 
-
 - ### Principais projetos 🔟
+
+>[Site completo em C# e Angular (em desenvolvimento)](https://github.com/guirms/software_estacionamento)
+
 >[Aplicativo Web de eventos com MySQL, HTML e CSS](https://github.com/guirms/app_de_evento_web_java)
 
 >[API Restful de um Workshop com MongoDB](https://github.com/guirms/api-restful-springboot-mongodb)
