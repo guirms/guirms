@@ -10,7 +10,7 @@
 
 - ### Principais projetos 🔟
 
->[Site completo em C# e Angular (em desenvolvimento)](https://github.com/guirms/software_estacionamento)
+>[Tela de login em C# e Angular (em desenvolvimento)](https://github.com/guirms/software_estacionamento)
 
 >[Aplicativo Web de eventos com MySQL, HTML e CSS](https://github.com/guirms/app_de_evento_web_java)
 
