@@ -31,7 +31,7 @@ No início de 2022 iniciei o bacharelado em Engenharia de Software e também min
 
 >[API Restful em Java e MongoDB](https://github.com/guirms/api-restful-springboot-mongodb)
 
->[Web Service em Java e PostGreSQL](https://github.com/guirms/webservice_springboot)
+>[Web Service em Java e PostgreSQL](https://github.com/guirms/webservice_springboot)
 
 >[CRUD de Workshop em MySQL e JavaFX](https://github.com/guirms/crud_workshop-javaFX-JDBC)
 
