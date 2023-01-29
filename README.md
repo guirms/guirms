@@ -13,6 +13,7 @@ No início de 2022 iniciei o bacharelado em Engenharia de Software e também min
 
 <code><img height="32" src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" alt="C#"/></code>
 <code><img height="32" src="https://seeklogo.com/images/A/angular-icon-logo-9946B9795D-seeklogo.com.png" alt="Angular"/></code>
+<code><img height="32" src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="Java"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code>
 <code><img height="32" src="https://cdn-icons-png.flaticon.com/512/5815/5815478.png" alt="SQL"/></code>
