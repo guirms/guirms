@@ -25,7 +25,7 @@ No início de 2022 iniciei o bacharelado em Engenharia de Software e também min
 
 - ### Principais projetos 🔟
 
->[Aplicação em .NET Core 6, Angular e SQL Server(em desenvolvimento)](https://github.com/guirms/site_estaciona_facil)
+>[Aplicação em .NET Core 6, Angular e SQL Server (em desenvolvimento)](https://github.com/guirms/site_estaciona_facil)
 
 >[Aplicativo Web de eventos em Java, MySQL, HTML e CSS](https://github.com/guirms/app_de_evento_web_java)
 
