@@ -35,7 +35,7 @@ No início de 2022 iniciei o bacharelado em Engenharia de Software e também min
 
 >[CRUD de Workshop em MySQL e JavaFX](https://github.com/guirms/crud_workshop-javaFX-JDBC)
 
->[CRUD simples em Java eMySQL](https://github.com/guirms/padrao_dao_jdbc)
+>[CRUD simples em Java e MySQL](https://github.com/guirms/padrao_dao_jdbc)
 
 >[Bot IQOption em Python](https://github.com/guirms/iqoption_trade_bot)
 
