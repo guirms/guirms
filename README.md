@@ -37,7 +37,7 @@ No início de 2022 iniciei o bacharelado em Engenharia de Software e também min
 
 >[CRUD simples em Java e MySQL](https://github.com/guirms/padrao_dao_jdbc)
 
->[Bot IQOption em Python](https://github.com/guirms/iqoption_trade_bot)
+>[Bot para IQOption em Python](https://github.com/guirms/iqoption_trade_bot)
 
 - ### Estatísticas ✔️
 <div>
