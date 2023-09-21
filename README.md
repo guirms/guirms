@@ -1,7 +1,7 @@
 ## Welcome to my profile 👋 
 
 <p align="center">
-	<img width="460" height="300" src="assets\to_readme\75uC.gif">
+	<img width="460" height="300" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 </p>
 
 
