@@ -4,9 +4,8 @@
 	<img width="460" height="300" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 </p>
 
-
 - ## About me
-#### My name is Guilherme Machaado Santana, i am from Brazil and i've been developing since 2019. Currently, i'm a web fullstack developer and work with .NET, Angular, SQL, NoSQL and Kubernetes and I'm also studying a bachelor's degree in software engineering.
+My name is Guilherme Machado Santana, i am from Brazil and i've been developing since 2019. Currently, i'm a web fullstack developer and work with .NET, Angular, SQL, NoSQL and Kubernetes and I'm also studying a bachelor's degree in software engineering.
 
 - ## 🚀 Main skills
 
