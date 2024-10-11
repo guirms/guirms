@@ -5,21 +5,21 @@
 </p>
 
 - ## About me
-My name is Guilherme Machado Santana, i am from Brazil and i've been developing since 2019. Currently, i'm a web fullstack developer and work with .NET, Angular, SQL, NoSQL and Kubernetes and I'm also studying a bachelor's degree in software engineering.
+My name is Guilherme Machado Santana, I'm from Brazil and I've been developing since 2019. Currently, I'm a web fullstack developer at Plasson of Brazil and I'm also studying a bachelor's degree in software engineering.
 
 - ## 🚀 Main skills
 
->.NET Core/Framework.
+>.NET Core/Framework
 
->Angular.
+>Angular
 
->SQL.
+>SQL
 
->NoSQL.
+>NoSQL
 
->Docker.
+>Docker
 
->Kubernetes.
+>AWS
 
 - ## Nice projects
 
